@@ -1,6 +1,6 @@
 # katwalk
 
-This repository has been archived. New version of the tools is available [here](https://github.com/kriskwiatkowski/katwalk2)
+This repository has been archived. New version of the tools is available [here](https://github.com/kriskwiatkowski/katwalk)
 
 Utility to iterate over NIST Known Answer Tests vectors from CAVP. It
 allows to bind an action for each test vector supplied by calling code. 
